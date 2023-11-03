@@ -1,0 +1,332 @@
+*{
+    font-family:sans-serif;
+    margin:0px;
+    padding:0px;
+
+}
+
+.head{
+    background-color: rgb(2, 2, 20);
+    color:white;
+    height:65px;
+    font-size:25px;
+    
+
+}
+#amazon{
+    padding-right:25%;
+    font-size:35px;
+    color:white;
+
+}
+
+#search{
+    padding-right:10%;
+ 
+}
+
+input{
+    border-radius: 15px;
+    width:25%;
+    height: 35px;
+    margin-top:10px;
+}
+
+
+#card{
+    padding-left: 25px;
+}
+
+#return
+{
+    padding-left: 25px;
+}
+
+.mid{
+    background-color: rgb(2, 2, 61);
+    color:white;
+    height:55px;
+    font-size:20px;
+   text-align:center;
+   padding-top:15px;
+    
+ 
+    
+    
+}
+
+#amt{
+    padding-right:35px;
+  
+    
+}
+
+#seller{
+    padding-right:40px;
+    margin-top: 10px;
+}
+
+#mobiles{
+    padding-right:40px;
+}
+
+#services{
+    padding-right:40px;
+}
+
+#deals{
+    padding-right:40px;
+}
+
+#ele{
+    padding-right:40px;
+}
+
+#pay{
+    padding-right:40px;
+}
+
+#prime{
+    padding-right:40px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+  
+  .banner{
+padding-top:165px;
+font-size: 33px;
+padding-left:85px;
+  }
+
+  
+  .signin{
+ width:400px;
+    text-align: center;
+    height:250px;
+    transform: translate(105% );
+    background-color: rgb(250, 190, 78);
+    margin-top: 150px;
+    border-radius: 15px;
+    padding:25px;
+  
+  } 
+
+  input{
+    width:250px;
+    font-size:15px;
+  padding-left: 10px;
+    border-style: none;
+    outline:none;
+    
+
+  }
+
+  .button{
+
+    border-radius:10px;
+    background-color: rgb(12, 169, 241);
+    color:white;
+    font-size:20px;
+    width:85;
+    padding: 2px 20px;
+    border-style: none;
+
+
+
+  }
+
+
+  .regi{
+    width:400px;
+    text-align: center;
+    height:350px;
+    transform: translate(105% );
+    background-color: rgb(247, 85, 79);
+    margin-top: 150px;
+    border-radius: 15px;
+    padding:25px;
+  
+
+  }
+
+  p {
+
+  
+    text-decoration: none;
+  }
+
+  span a{
+    text-decoration: none;
+    color:white;
+    
+  }
+  span a:hover{
+    
+    color: rgb(253, 253, 7);
+    cursor:pointer;
+
+  }
+
+  span:hover{
+    color: rgb(253, 253, 7);
+    cursor:pointer;
+  }
+
+  .anchor{
+    text-decoration: none;
+  }
+
+.deal{
+ margin:10px 5px;
+ 
+ 
+  width:300px;
+  height:330px;
+  
+  
+
+  
+
+}
+
+#dl{
+
+  padding-top:10px;
+  margin-left:10px;
+}
+
+.btnn{
+  
+  padding: 5px 10px;
+  background-color:red;
+  color:white;
+  border-style:none;
+  margin:0 5%;
+  font-size: 20px;
+ 
+
+}
+
+.deal p{
+  font-size: 25px;
+  margin:0 5%;
+
+ 
+  
+}
+
+.deal img{
+
+  width:250px;
+  height:200px;
+ 
+
+}
+
+.flexbox5{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+#kitchan{
+  margin:5px 20px;
+}
+
+.kitchen img{
+
+
+ padding-right: 50px;
+
+}
+
+#cooker{
+  margin-left:10px;
+}
+
+.poster{
+  background-color:rgb(244, 255, 147);
+  text-align: center;
+  width:70%;
+  transform:translate(20%);
+  margin: 20px 0;
+
+  
+
+}
+
+.poster h1{
+padding-top:20px;
+}
+
+.noise{
+  padding:5px 15px;
+  color:white;
+  background:black;
+  margin-top:30px;
+  margin-right:20px;
+  cursor:pointer;
+}
+
+.campus{
+  padding:5px 15px;
+  color:white;
+  background:black;
+  margin-top:30px;
+  cursor: pointer;
+ 
+}
+
+.poster p{
+  font-size: 15px;
+  
+}
+
+#watch{
+  font-size:25px;
+  padding:30px 0;
+  
+ 
+ 
+  
+
+}
+.footer{
+  background-color:rgb(46, 42, 51);
+  color:#fff;
+  width:100%;
+  padding:20px;
+  
+}
+
+.footer h2{
+  padding:15px 0;
+}
+
+
+
+.footer ul{
+  list-style: none;
+
+}
+
+.footer li a{
+  color:#fff;
+  text-decoration: none;
+ 
+
+}
+
+
+.flexxxxxxxbox{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+
